@@ -1,4 +1,4 @@
-..  _generalnoes:
+..  _generalnotes:
 
 ----------------
 General Programming Notes
