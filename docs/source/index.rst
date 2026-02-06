@@ -14,7 +14,14 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting Started
+   :caption: Before You Get Started
 
    targetbackground
    generalnotes
+
+toctree::
+   :caption: Starting an Analysis
+   outline
+   validate
+   style
+   reproduce
