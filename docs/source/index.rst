@@ -13,6 +13,15 @@ Contents
 --------
 
 .. toctree::
+   :caption: Introduction
+   :maxdepth: 2
 
-   usage
-   api
+   Target Audience
+   Background
+
+   :caption: General Programming Notes
+   :maxdepth: 2
+
+   Choosing a language
+   Setting up your environment
+   Setting up your project
