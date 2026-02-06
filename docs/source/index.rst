@@ -1,19 +1,13 @@
-Welcome to Lumache's documentation!
+SMILE Lab RampUp
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is for new trainees joining the SMILE Lab. These pages and accompanying exercises are designed to get you familiar with the data structures that are used in holding behavioral and neural data collected in the lab as well as some of the common processing and analysis techniques that are commonly employed to answer scientific questions from it.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
    This project is under active development.
 
-Lumache hosts its documentation on Read the Docs.
 
 Contents
 --------
