@@ -17,14 +17,4 @@ Contents
    :caption: Getting Started
 
    targetbackground
-   General Programming Notes/index
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Structuring an Analysis
-
-   Outline
-   Validate
-   Style
-   Reproducing
-   
+   generalnotes
