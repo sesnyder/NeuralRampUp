@@ -16,7 +16,7 @@ Contents
    :maxdepth: 2
    :caption: Getting Started
 
-   Target Audience and Background
+   targetbackground
    General Programming Notes/index
 
 .. toctree::
