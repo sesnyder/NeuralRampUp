@@ -19,8 +19,9 @@ Contents
    targetbackground
    generalnotes
 
-toctree::
+.. toctree::
    :caption: Starting an Analysis
+   
    outline
    validate
    style
