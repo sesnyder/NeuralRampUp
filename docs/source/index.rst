@@ -13,15 +13,18 @@ Contents
 --------
 
 .. toctree::
-   :caption: Introduction
    :maxdepth: 2
+   :caption: Getting Started
 
-   Target Audience
-   Background
+   Target Audience and Background
+   General Programming Notes/index
 
-   :caption: General Programming Notes
+.. toctree::
    :maxdepth: 2
+   :caption: Structuring an Analysis
 
-   Choosing a language
-   Setting up your environment
-   Setting up your project
+   Outline
+   Validate
+   Style
+   Reproducing
+   
