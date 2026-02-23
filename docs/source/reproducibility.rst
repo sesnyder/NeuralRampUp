@@ -1,7 +1,7 @@
-..  _reproducability:
+..  _reproducibility:
 
 ----------------
-Reproduce
+Reproducibility
 ----------------
 
 Comments
