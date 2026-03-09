@@ -18,10 +18,9 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Before You Get Started
+   :maxdepth: 1
 
-   targetbackground
+   introduction
    generalnotes
 
 .. toctree::
