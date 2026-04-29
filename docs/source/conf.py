@@ -16,6 +16,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_tabs.tabs',
+    'sphinx.ext.mathjax',
 ]
 
 intersphinx_mapping = {
