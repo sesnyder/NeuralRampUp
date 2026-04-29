@@ -16,7 +16,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx_tabs.tabs',
     'sphinx.ext.mathjax',
 ]
 
@@ -30,7 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'renku'
+html_theme = 'sphinx_rtd_theme'
 html_logo = "smile_logo.png"
 html_theme_options = {
     'logo_only': True,
