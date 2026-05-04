@@ -22,9 +22,9 @@ And the MATLAB version :download:`here <../../data/dwightCO20230523.mat>`.
 File Organization
 -----------------
 
-An experimental session is stored as a single file (Either a `.pkl` (Python) or a `struct` MATLAB. The file is organized such that each row is a single trial (one attempted reach). 
+An experimental session is stored as a single file (Either a `.pkl` (Python) or a `struct` MATLAB). The file is organized such that each row is a single trial (one attempted reach). 
 
-To begin, load the data and take a look at how it is structured. Each column contains a different type of information about the trial. Below, I've walked through what each column contains and how to interpret it.
+To begin, load the data and take a look at how it is organized. Each column contains a different type of information about the trial. Below, I've walked through what each column contains and how to interpret it.
 
 Trial Metadata
 ++++++++++++++
