@@ -14,7 +14,10 @@ For these exercises, I've included a basic recordings from a standard "center-ou
 Download
 --------
 
-Download the python version of dataset :download:`here <../../data/dwightCO20230523.pkl>`.
+Download the python version of this dataset :download:`here <../../data/dwightCO20230523.pkl>`.
+
+And the MATLAB version :download:`here <../../data/dwightCO20230523.mat>`.
+
 
 File Organization
 -----------------
@@ -34,7 +37,7 @@ Trial Metadata
 
     **reachTarget** — The peripheral target location and size, stored in the same format as the centerTarget (x-coordinate, y-coordinate, the target radius).
 
-    **timeStartCenter** — The time (in ms) that the animal acquires the center hold target. 
+    **timeStartCenterHold** — The time (in ms) that the animal acquires the center hold target. 
 
     **timeGoCue** — The time (in ms) that the animal may move from the center target to the peripheral target.
 
