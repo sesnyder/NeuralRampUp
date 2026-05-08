@@ -18,8 +18,6 @@ Download the python version of this dataset :download:`here <../../data/dwightCO
 
 And the MATLAB version :download:`here <../../data/dwightCO20230523.mat>`.
 
-And the MATLAB version :download:`here <../../data/dwightCO20230523.mat>`.
-
 File Organization
 -----------------
 
