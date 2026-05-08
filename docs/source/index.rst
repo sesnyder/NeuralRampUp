@@ -25,4 +25,5 @@ Contents
    singleneurons
    dimred
    decoders
+   multiarea
 
