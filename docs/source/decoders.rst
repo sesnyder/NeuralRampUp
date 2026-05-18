@@ -11,7 +11,7 @@ BCIs are most known for their clinical utility. For example, restoring `speech <
 The Kalman Filter
 -----------------
 
-The Kalman filter is the main algorithm used for BCIs in the MSSCABBY lab groups. We use an "intuitive" decoder to refer to a Kalman filter that was calibrated to give the animal good control. Many BCI learning studies from the lab have relied on changing various parameters of the intuitive decoder to perturb the animal's control, and then examined specifically how the animal recovered. (linked earlier). Therefore, it is worthwhile to be intimately familiar with how a Kalman filter is structured and fit to neural data. 
+The Kalman filter is one of the main algorithm used for BCIs. We use an "intuitive" decoder to refer to a Kalman filter that was calibrated to give the animal good control. Many BCI learning studies from the lab have relied on changing various parameters of the intuitive decoder to perturb the animal's control, and then examined specifically how the animal recovered. (linked earlier). Therefore, it is worthwhile to be intimately familiar with how a Kalman filter is structured and fit to neural data. 
 
 A Kalman filter consists of two components: a state model that describes how the cursor movements change over time, and an observation model, which describes how neural activity relates to the cursor movements.
 
