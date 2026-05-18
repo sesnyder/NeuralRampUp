@@ -4,17 +4,17 @@
 Who this is for
 ----------------
 
-This tutorial is primarily written for new trainees entering SCABBY labs. I assume a mixed skill level: some of you may have extensive programming experience but limited neuroscience background, while others may be coming from a neuroscience background with less coding and formal math experience. The modules are designed to get one up-to-speed on the common approaches used in the labs.
+This tutorial is primarily written for new trainees getting started with analyses of neural population data. I assume a mixed skill level: some of you may have extensive programming experience but limited neuroscience background, while others may be coming from a neuroscience background with less coding and formal math experience. The modules are designed to get one up-to-speed on the common approaches used in the labs.
 
 Prerequisites
 -------------
 
-You don't need to be an expert in any of the following, but having some baseline familiarity will make your life much easier. If you are missing experience in any of the following, I highly recommend completing one of the attached subject-specific tutorials before starting these exercises.
+You don't need to be an expert in any of the following, but having some baseline familiarity will make your life much easier. If you are missing experience in any of the following, I highly recommend completing one of the attached subject-specific tutorials on your own before starting these exercises.
 
 Programming
 ~~~~~~~~~~~
 
-You should have basic experience with at least one scientific programming language. This includes basic data manipulation and visualization. The popular choices are either Python or MATLAB. In Python, familiarity with the NumPy, Pandas, and Matplotlib libraries will be helpful.
+You should have basic experience with at least one scientific programming language. This includes basic data manipulation and visualization. The popular choices are either Python or MATLAB. In Python, familiarity with the NumPy, Pandas, and Matplotlib libraries will be particularly helpful.
 
 If you're new to coding, you have an almost overwhelming amount of options for beginner tutorials. If you're new to Python and want to get up to speed quickly for data science work, `Python Like You Mean It <https://www.pythonlikeyoumeanit.com/>`_ is an excellent free resource. The MIT opencourseware option for beginniner Python is also very good. For MATLAB, MathWorks has released a `series of tutorial videos <https://www.mathworks.com/support/learn-with-matlab-tutorials.html>`_.
 
@@ -40,10 +40,11 @@ Many of the analytical techniques in this tutorial (PCA, factor analysis, Kalman
 Probability and Statistics 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A working knowledge of probability distributions (Gaussian, Poisson), conditional probability, and basic statistical concepts (mean, variance, covariance) will come up repeatedly. I introduce the relevant concepts as they arise, but having some prior exposure will help. I still need a good reference here (so reach out if you have one that you like!)
+A working knowledge of probability distributions (Gaussian, Poisson), conditional probability, and basic statistical concepts (mean, variance, covariance) will come up repeatedly. I introduce the relevant concepts as they arise, but having some prior exposure will help. `Probability course  <https://www.probabilitycourse.com/>`_ is recommended, as is `A First Course in Probability <https://www.cs.utexas.edu/~abdonm/SDS%20321/a_first_course_in_probability.pdf>`_ by Sheldon Ross.
 
 Neuroscience
 ~~~~~~~~~~~~
 
-A basic understanding of how neurons communicate will be helpful. At a minimum, you should know what an action potential is and understand that neural activity can be recorded using electrodes. Familiarity with the idea that neurons "fire" in response to stimuli and that firing rates can carry information will also be helpful. Ref here?
+A basic understanding of how neurons communicate will be helpful. At a minimum, you should know what an action potential is and understand that neural activity can be recorded using electrodes. Familiarity with the idea that neurons "fire" in response to stimuli and that firing rates can carry information will also be helpful. Due to the depth of the field, linking specific resources here is difficult. Principles of Neural Science is generally considered the definitive textbook in our field but is almost 1700 pages at it's most recent edition. There is also an `Intro to Neuroscience course <https://ocw.mit.edu/courses/9-01-introduction-to-neuroscience-fall-2007/>`_ from MIT OpenCourseWare that covers the basics (especially Part 1).
+ 
 
