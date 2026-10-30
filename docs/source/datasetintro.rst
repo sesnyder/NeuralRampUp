@@ -9,7 +9,7 @@ Before you can get started with analyzing the data, you need to understand what 
 The Experiment
 --------------
 
-For these exercises, I've included a basic recordings from a standard "center-out task". Here, a monkey is making movements to different targets. Each movement is considered a trial. The animal's hand movements are used to control the movement of a computer cursor that he sees on a screen in front of him. To start each trial, the animal must hold his hand in the center of his workspace. Then, after a variable delay, he gets a go-cue and must move his hand towards one of eight targets that are evenly spaced at 45° increments on a ring around the center. When they reach the peripheral target, they get a reward and it is considered a success. If they do not reach the target window, it is considered a failure. Additionally, I record from neural activity in the motor cortex while the animal performs this task.
+For these exercises, I've included a basic recordings from a standard "center-out task". Here, a monkey is making movements to different targets. Each movement is considered a trial. The animal's hand movements are used to control the movement of a computer cursor that he sees on a screen in front of him. To start each trial, the animal must hold his hand in the center of his workspace. Then, after a variable delay, he gets a go-cue and must move his hand towards one of eight targets that are evenly spaced at 45° increments on a ring around the center. When they reach the peripheral target, they are required to hold the peripheral target for a brief amount of time to get a reward and it is considered a success. If they do not reach the target window, it is considered a failure. Additionally, I record from neural activity in the motor cortex while the animal performs this task.
 
 Download
 --------
@@ -42,7 +42,7 @@ Trial Metadata
 
     **timeTrialSuccess** — The time (in ms) that the animal successfully acquires the peripheral target. 
 
-    **timeTrialFail** - The time (in ms) that the trial timed out due to the animal not acquiring the target.
+    **timeTrialFail** - The time (in ms) that the trial failed. This could be due to the trial timing out due to the animal not acquiring the target in the alotted amount of time, or due to the animal moving outside of the target window before the peripheral hold period has ended.
 
 
 Behavioral Data
