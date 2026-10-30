@@ -42,7 +42,7 @@ Trial Metadata
 
     **timeTrialSuccess** — The time (in ms) that the animal successfully acquires the peripheral target. 
 
-    **timeTrialFail** - The time (in ms) that the trial failed. This could be due to the trial timing out due to the animal not acquiring the target in the alotted amount of time, or due to the animal moving outside of the target window before the peripheral hold period has ended.
+    **timeTrialFail** - The time (in ms) that the trial failed. This could be due to the trial timing out due to the animal not acquiring the target in the allotted amount of time, or due to the animal moving outside of the target window before the peripheral hold period has ended.
 
 
 Behavioral Data
